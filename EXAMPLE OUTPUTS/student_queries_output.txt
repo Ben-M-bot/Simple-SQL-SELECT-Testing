@@ -1,0 +1,19 @@
+-----------------------------------------------------
+JOIN: Neither query has a JOIN clause
+GROUP BY: Neither query has a GROUP BY clause
+HAVING: Neither Query have a HAVING clause
+ORDER BY: Both queries have an ORDER BY clause
+Model query uses DESC while student query does not
+Query is incorrect, the model query has 48 results
+Example: ('Vatican', None)
+While the student_query has 1 results
+Example: (13193474540000,)
+-----------------------------------------------------
+JOIN: Neither query has a JOIN clause
+GROUP BY: Neither query has a GROUP BY clause
+HAVING: Neither Query have a HAVING clause
+ORDER BY: Neither query has an ORDER BY clause
+Query is incorrect, the model query has 9 results
+Example: ('Iceland', 294000)
+While the student_query has 8 results
+Example: ('Pakistan', 161100000)

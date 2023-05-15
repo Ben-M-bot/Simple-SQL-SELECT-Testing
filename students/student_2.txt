@@ -1,0 +1,6 @@
+SELECT SUM(gdp)
+FROM countries
+WHERE region = 'Africa'
+ORDER BY gdp ASC;
+
+SELECT name, population FROM countries WHERE name LIKE 'S%';

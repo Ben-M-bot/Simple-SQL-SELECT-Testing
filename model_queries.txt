@@ -1,0 +1,5 @@
+SELECT name, population
+FROM countries
+WHERE region = 'Europe'
+ORDER BY name DESC;
+SELECT name, population FROM countries WHERE name LIKE 'I%';
